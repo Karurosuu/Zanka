@@ -39,7 +39,7 @@ hr {
 
 body {
   background-color: #07050c;
-  font-size: 1em;
+  font-size: 1.4em;
   color: var(--colorText);
   font-weight: 300;
 }
@@ -163,7 +163,7 @@ section > hr {
   flex-wrap: wrap;
   width: 100%;
   padding: 0 2rem;
-  gap: 5rem 0;
+  gap: 10rem 0;
 }
 .topic-info {
   text-align: center;
