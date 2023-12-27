@@ -73,6 +73,7 @@ header nav #menu {
   padding-right: 1rem;
   padding-top: 2rem;
   transition: left 300ms ease-in-out;
+  z-index: 9999;
 }
 
 header nav ul li:first-child i {
